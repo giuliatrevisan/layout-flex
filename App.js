@@ -44,11 +44,13 @@ const styles = StyleSheet.create({
   },
 
   coluna1: {
+    flex:1,
     backgroundColor: '#443f3f',
     flexDirection:'column',
   },
 
   coluna2: {
+    flex:1,
     backgroundColor: '#443f3f',
     flexDirection:'column',
   },
